@@ -51,7 +51,7 @@ header{
 .head{
   width:1200px;
   position:absolute;
-  top:70%;
-  left:20%;
-  transform: translate(-20%,-70%);
+  top:30%;
+  left:50%;
+  transform: translate(-50%,-30%);
 }
