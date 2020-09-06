@@ -99,7 +99,17 @@ h1{
   color: black;
 }
 
-
+.Chan{
+  animation: chai 1s infinite;
+}
+@keyframes chai{
+  0%{color:red;}
+  25%{color:yellow;}
+  50%{color: black;}
+  75%{color: purple;}
+  100%{color: white;}
+  
+}
 
 
 
