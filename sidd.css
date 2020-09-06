@@ -55,3 +55,48 @@ header{
   left:50%;
   transform: translate(-50%,-60%);
 }
+
+h1{
+  word-spacing:6px ;
+  margin-bottom: 30px;
+  letter-spacing: 4px;
+ 
+}
+.btn{
+  border-radius: 200px;
+  padding:10px 35px;
+  text-decoration: none;
+ 
+  display:inline-block;
+  transition: background 0.2s,border 0.2s,color 0.2s;
+}
+.btn-full{
+  border: 1px solid #f4f475;
+  color:#f4f475;
+  text-decoration: bold;
+  text-transform: uppercase;
+  margin-right: 15px;
+  background: transparent;
+}
+.btn-full:hover{
+  background: white;
+}
+.btn-nav{
+  border: 1px solid white;
+  color:white;
+  text-decoration: bold;
+  text-transform: uppercase;
+  margin-right: 15px;
+  background: transparent;
+}
+.btn-nav:hover{
+  background: #f4f475;
+}
+
+
+
+
+
+
+
+
