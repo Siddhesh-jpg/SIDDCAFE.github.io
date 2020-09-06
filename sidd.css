@@ -64,7 +64,7 @@ h1{
   word-spacing:6px ;
   margin-bottom: 30px;
   letter-spacing: 4px;
- 
+  font-weight:lighter;
 }
 .btn{
   border-radius: 200px;
