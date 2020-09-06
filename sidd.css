@@ -80,6 +80,7 @@ h1{
 }
 .btn-full:hover{
   background: white;
+  color: black;
 }
 .btn-nav{
   border: 1px solid white;
@@ -91,6 +92,7 @@ h1{
 }
 .btn-nav:hover{
   background: #f4f475;
+  color:black;
 }
 
 
