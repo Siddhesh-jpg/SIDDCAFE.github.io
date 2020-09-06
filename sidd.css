@@ -50,8 +50,8 @@ header{
   
 }
 .main-nav li a:hover{
-  border-bottom:2px soild black;
-  }
+  border-bottom: 2px solid #03e2eb9f;
+}
 .head{
   width:1200px;
   position:absolute;
