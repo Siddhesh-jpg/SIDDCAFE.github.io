@@ -111,7 +111,9 @@ h1{
   100%{color: white;}
   
 }
-
+.mobile-icon{
+  display:none;
+  }
 @media(max-width:1180px){
 .head{
   width:100%;
@@ -126,6 +128,20 @@ h1{
   h1{ font-size:180%; }
   .main-nav{
     display:none;
+    float:left;
+    }
+      
+    .moblie-icon{
+      display:inline-block;
+      color:#fff;
+      float:right;
+      margin-top: 15px;
+      margin-right: 20px;
+    }
+    .main-nav li{
+   
+      margin-top: 10px;
+      display:block;
     }
   }
 @media(max-width:350){
