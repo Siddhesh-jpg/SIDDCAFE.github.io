@@ -167,6 +167,9 @@ h1{
   margin-top:0px;
   
 }
+          .main-nav li a{
+     font-size:120%;
+     }
   }
 @media(max-width:410px)
   {
@@ -212,6 +215,13 @@ h1{
       margin-right: 30px;
      
     }
+    .head{
+  width:1200px;
+  position:absolute;
+  top:80%;
+  left:50%;
+  transform: translate(-50%,-80%);
+}
    }
 
 
