@@ -168,7 +168,7 @@ h1{
   
 }
           .main-nav li a{
-     font-size:120%;
+     font-size:140%;
      }
   }
 @media(max-width:410px)
@@ -216,7 +216,7 @@ h1{
      
     }
     .head{
-  width:1200px;
+  
   position:absolute;
   top:80%;
   left:50%;
