@@ -9,19 +9,24 @@
     <link href='https://fonts.googleapis.com/css?family=Oxygen:400,300,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="sidd.css">
     <link href='https://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'>
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
 <header>
+  <nav>
   <div class="main clearfix">
    <img src="Lo.png" class="logo">  
   
-     <ul class="main-nav animated slideInDown">
+     <ul class="main-nav animated slideInDown" id="check-class">
        <li><a href="#">HOME</a></li>
        <li><a href="#">SPECIALS</a></li>
        <li><a href="#">MENUS</a></li>
        <li><a href="#">ABOUT US</a></li>
      </ul>
+    <a href="#" class="mobile-icon" onclick="slideshow()">
+  <i class="fa-fa-bars"></i></a>
+    
   </div>
+  </nav>
   <div class="head">
 <h1>
   WELCOME TO <span class="Chan">SIDD CAFE </span><br>
@@ -34,6 +39,22 @@
   
 </header>
 
-
+<script>
+  
+   function slideshow(){
+     var x=document.getElementById('check-class');
+     
+    if(x.style.display==="none"){
+      x.style.display="block":
+      
+    }
+ else{
+   x.style.display="none";
+ }
+ 
+   }
+    
+   
+</script>
 
 </html>
