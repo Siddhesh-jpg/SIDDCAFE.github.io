@@ -128,9 +128,9 @@ h1{
 
 @media(max-width:998px){
   h1{ font-size:200%;}
-  .main-nav li a{
-    font-size:120%;}
-  }
+  
+    
+  
 
     @media(max-width:768px){
   h1{ font-size:180%; 
