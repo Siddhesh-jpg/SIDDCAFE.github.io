@@ -47,7 +47,7 @@ header{
   padding:5px 0;
   color:white;
   text-decoration: none;
-
+  
   
 }
 .main-nav li a:hover{
@@ -117,15 +117,15 @@ h1{
     }
 
   
-@media(min-width: 992px) and (max-width: 1199px)       {
+@media(max-width: 1199px){
 .head{
   width:100%;
   padding:1px 3px;
 }
  
-   .main-nav li a{
-     font-size:170%;
-     }
+  
+     
+
 
 @media(max-width:998px){
   h1{ font-size:200%;}
