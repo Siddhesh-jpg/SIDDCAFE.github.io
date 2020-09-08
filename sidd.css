@@ -7,6 +7,8 @@ body{
   font-size:20px;
   overflow-x: hidden;
   color:white;
+  font-family: 'Orbitron', sans-serif;
+font-family: 'Rokkitt', serif;
 }
 header{
   background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5) ),url("5.jpg");
@@ -67,8 +69,7 @@ h1{
   margin-bottom: 30px;
   letter-spacing: 4px;
   font-weight:lighter;
-    font-family: 'Orbitron', sans-serif;
-font-family: 'Rokkitt', serif;
+    
 }
 .btn{
   border-radius: 200px;
