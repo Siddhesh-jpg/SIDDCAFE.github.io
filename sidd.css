@@ -55,6 +55,7 @@ header{
 }
 .head{
   width:1200px;
+  font-family: 'Rokkitt', serif;
   position:absolute;
   top:60%;
   left:50%;
@@ -66,7 +67,7 @@ h1{
   margin-bottom: 30px;
   letter-spacing: 4px;
   font-weight:lighter;
-  font-family: 'Kufam', cursive;
+  
 }
 .btn{
   border-radius: 200px;
