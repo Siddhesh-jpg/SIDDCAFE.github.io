@@ -135,7 +135,7 @@ font-style: bold;
 /*
 #bf55ec*/
 
-@media(min-width:990px) and (max-widthth:1180px){
+@media(min-width:999px) and (max-widthth:1180px){
 .head{
   width:100%;
   padding:1px 3px;
@@ -145,7 +145,7 @@ font-style: bold;
 }
 }
 
-@media(max-width:998px){
+@media(min-width:769px) and (max-width:998px){
   h1{ font-size:200%;}
  
   }
@@ -174,7 +174,7 @@ font-style: bold;
     }
     .main-nav li a{
       color:white;
-     box-shadow: 0px 0px 0px 1px black;
+    font-style:bold;
     }
     .main-nav li{
       margin-top:20px;
