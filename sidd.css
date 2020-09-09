@@ -121,20 +121,24 @@ h1{
     }
 
   
-@media(max-width: 1180px){
+@media(min-width:999px) and (max-width: 1180px){
 .head{
   width:100%;
   padding:1px 3px;
 }
- 
-  
+ .main-nav li{
+  margin-right:30px;
+}
+  }
      
 
 
-@media(max-width:998px){
+@media(min-width:769) and (max-width:998px){
   h1{ font-size:200%;}
-  
-    
+  main-nav li{
+  margin-right:30px;
+}
+    }
   
 
     @media(max-width:768px){
