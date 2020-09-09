@@ -118,7 +118,7 @@ font-style: bold;
   100%{color: white;}
   
 }
-h4{
+#none{
      display:none;
      }
 
@@ -215,7 +215,7 @@ h4{
          h1{
               display:none;
               }
-     h4{
+     #none{
           display: flex;
           }
         
