@@ -118,6 +118,9 @@ font-style: bold;
   100%{color: white;}
   
 }
+h4{
+     display:none;
+     }
 
 .mobile-icon{
   display:none;
@@ -202,10 +205,19 @@ font-style: bold;
   }
 @media(max-width:360px){
      
+  .logo{
+  float:left;
+  height:60px;
+   width:auto;
+  margin-top:0px;
   
-         .head{
+}
+         h1{
               display:none;
               }
+     h4{
+          display: block;
+          }
         
           
      }
