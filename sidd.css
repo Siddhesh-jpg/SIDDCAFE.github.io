@@ -5,7 +5,7 @@
   padding:0px;
 }
 body{
-  
+  font-size:20px;
   overflow-x: hidden;
   color:black;
 }
@@ -132,9 +132,9 @@ font-style: bold;
   margin-right:30px;
 }
     
-    body{
-         font-size:20px;
-          }
+
+        
+          
 }
 /*
 #bf55ec*/
@@ -147,9 +147,9 @@ font-style: bold;
 .main-nav li{
   margin-right:30px;
 }
-     body{
-         font-size:20px;
-          }
+   
+       
+          
 }
 
 @media(min-width:769px) and (max-width:998px){
@@ -188,10 +188,10 @@ font-style: bold;
       display:block;
     }
     
-    body{
-         font-size:20px;
-          }
-     
+ 
+        
+          
+    
     .logo{
   float:left;
   height:100px;
@@ -202,9 +202,11 @@ font-style: bold;
   }
 @media(max-width:360px){
      
-          body{
-         font-size:10px;
-          }
+  
+         .head{
+              display:none;
+              }
+        
           
      }
     
