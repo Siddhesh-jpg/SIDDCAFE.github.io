@@ -148,11 +148,15 @@ h1{
    
     .mobile-icon{
       display:inline-block;
-      color:#fafafa94;
-    
+     color:white;
+    font-display: bold;
       float:right;
+      background: black;
       margin-top: 30px;
-      margin-right: 30px;
+      margin-right: 20px;
+     box-shadow: 0px 0px 0px 7px black;
+    
+      
      
     }
     .main-nav{
@@ -161,10 +165,11 @@ h1{
     }
     .main-nav li a{
       color:black;
-    
+        box-shadow: 0px 0px 0px 1px black;
+  
     }
     .main-nav li{
-      margin-top:10px;
+      margin-top:20px;
       display:block;
       
     }
@@ -195,8 +200,32 @@ h1{
        margin-top:30px;
       }
 
+         .mobile-icon{
+      display:inline-block;
+     color:white;
+    font-display: bold;
+      float:right;
+      background: black;
+      margin-top: 30px;
+      margin-right: 20px;
+     box-shadow: 0px 0px 0px 7px black;
+    
+      
      
-     
+    }
+    .main-nav{
+      float:left;
+      
+    }
+    .main-nav li a{
+      color:black;
+        box-shadow: 0px 0px 0px 1px black;
+  
+    }
+    .main-nav li{
+      margin-top:20px;
+      display:block;
+     }
    }
   
 @media(max-width:340px)
@@ -225,7 +254,32 @@ h1{
       margin-right: 30px;
      
     }
-
+    .mobile-icon{
+      display:inline-block;
+     color:white;
+    font-display: bold;
+      float:right;
+      background: black;
+      margin-top: 30px;
+      margin-right: 20px;
+     box-shadow: 0px 0px 0px 7px black;
+    
+      
+     
+    }
+    .main-nav{
+      float:left;
+      
+    }
+    .main-nav li a{
+      color:black;
+        box-shadow: 0px 0px 0px 1px black;
+  
+    }
+    .main-nav li{
+      margin-top:20px;
+      display:block; 
+      }
    }
 
 
