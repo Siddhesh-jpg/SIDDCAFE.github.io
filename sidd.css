@@ -63,9 +63,9 @@ header{
 }
 .head{
   position:absolute; 
-  top:90%;
+  top:50%;
   left:10%;
-  transform: translate(-10%,-90%);
+  transform: translate(-10%,-50%);
   text-transform: uppercase;
 }
 h1{
