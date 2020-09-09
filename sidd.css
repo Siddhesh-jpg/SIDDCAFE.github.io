@@ -131,13 +131,7 @@ font-style: bold;
 .main-nav li{
   margin-right:30px;
 }
-    .head{
-  position:absolute; 
-  top:60%;
-  left:10%;
-  transform: translate(-10%,-60%);
-  text-transform: uppercase;
-}
+    
           
           
 }
