@@ -216,9 +216,11 @@ font-style: bold;
               display:none;
               }
      #none{
-          display: flex;
+          display: block;
           }
         
-          
+          .btn{
+               border-radius:150px;
+               }
      }
     
