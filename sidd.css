@@ -205,51 +205,13 @@ font-style: bold;
   
 }
   }
-@media(max-width:360px){
+
+    
+   
      
-  .logo{
-  float:left;
-  height:60px;
-   width:auto;
-  margin-top:0px;
-  
-}
-         h1{
-              display:none;
-              }
-     #none{
-          display: block;
-          }
-        
-          .btn{
-               border-radius:150px;
-               }
-     display:none;
-    }
-   /*
-    .mobile-icon{
-      display:inline-block;
-      color:white;
-    font-display: bold;
-      float:right;
-      background: black;
-      margin-top: 20px;
-      margin-right: 10px;
-     box-shadow: 0px 0px 0px 4px black;
-    }
-    .main-nav{
-      float:left;
-      
-    }
-    .main-nav li a{
-      color:white;
-    font-style:bold;
-    }
-    .main-nav li{
-      margin-top:10px;
-      display:block;
-    }
-    */
+    
+
+   
  
-     }
+     
     
