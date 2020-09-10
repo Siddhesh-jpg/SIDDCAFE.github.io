@@ -135,7 +135,9 @@ font-style: bold;
   margin-right:30px;
 }
     
-
+. mobile-icon{
+     display:none;
+     }
         
           
 }
